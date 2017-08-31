@@ -5,7 +5,7 @@
 -----
 `npm install git+ssh://http://luchenqun:fendoubuxi@192.168.9.66/Juzix-ethereum/console-utility.git#develop`   
 如果是写到package.json里面，以git协议这么写：
-`'key-manager':git+ssh://http://luchenqun:fendoubuxi@192.168.9.66/Juzix-ethereum/console-utility.git#develop`
+`'console-utility':git+ssh://http://luchenqun:fendoubuxi@192.168.9.66/Juzix-ethereum/console-utility.git#develop`
 
 说明
 -----
